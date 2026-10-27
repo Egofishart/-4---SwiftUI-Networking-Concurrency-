@@ -11,7 +11,7 @@ import SwiftUI
 struct ____________________4___SwiftUI___Networking___Concurrency__________App: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            PostsView()
         }
     }
 }
