@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "DDB96E63-67CC-4EC2-A174-00259217DC40"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "961CA70E-023A-46DD-BC03-B7FC1F12D218"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x10de;&#x10e0;&#x10d0;&#x10e5;&#x10e2;&#x10d8;&#x10d9;&#x10e3;&#x10da;&#x10d8; &#x10e1;&#x10d0;&#x10db;&#x10e3;&#x10e8;&#x10d0;&#x10dd; #4 - SwiftUI + Networking + Concurrency (&#x10d2;&#x10e3;&#x10dc;&#x10d3;&#x10e3;&#x10e0;&#x10d8;)/PostsView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "7"
+            endingLineNumber = "7"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2EC26926-154D-4142-955A-30632B08E09E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x10de;&#x10e0;&#x10d0;&#x10e5;&#x10e2;&#x10d8;&#x10d9;&#x10e3;&#x10da;&#x10d8; &#x10e1;&#x10d0;&#x10db;&#x10e3;&#x10e8;&#x10d0;&#x10dd; #4 - SwiftUI + Networking + Concurrency (&#x10d2;&#x10e3;&#x10dc;&#x10d3;&#x10e3;&#x10e0;&#x10d8;)/PostsView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "PostsViewModel"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
